@@ -23,4 +23,13 @@ public class Professor {
         }
         return null;
     }
+
+    public int getPersonID() {
+        return personID;
+    }
+
+    public int getProfessorID() {
+        return professorID;
+    }
+
 }
